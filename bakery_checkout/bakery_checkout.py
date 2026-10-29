@@ -9,12 +9,9 @@ def bedrag():
     print(f"{aantal}x {product_naam} is €{totaal_bedrag:.2f}")
 
 
-
-
 def totaal(prijs, aantal):
     return prijs * aantal
-
-
+    
 
 bedrag()
 
