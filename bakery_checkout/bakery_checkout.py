@@ -14,10 +14,3 @@ def totaal(prijs, aantal):
     
 
 bedrag()
-
-
-
-
-
-
-
